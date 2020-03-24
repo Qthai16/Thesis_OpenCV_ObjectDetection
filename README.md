@@ -24,7 +24,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Dependencies
 In order to run the project, the following dependencies are required:
 - Ubuntu 16.04 [here](http://cdimage.ubuntu.com/netboot/16.04/?_ga=2.243318149.1855666904.1529366501-828848615.1529366501)
-- CMake minimum version xxx [here]
+- CMake minimum version 2.8 [here]
 - OpenCV version xxx [here]
 - Dlib library for object detection version xxx [here]
 ```
@@ -34,20 +34,22 @@ Give examples
 ### Build project and run
 
 A step by step series of examples that tell you how to get a development env running
+This project support 2 build options: Build on host (local PC) or build on Raspberry Pi.
+To build on PC, open CMakeLists.txt and change BUILD_ON_PI/BUILD_ON_HOST to OFF/ON. Do the opposite when build on pi.
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
+To build this project, do as below
 
 ```
-until finished
+cmake .
+cd build && make
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+The building process takes approximately 5 mins in the first build (depend on your PC)
+To run the project
+
+```
+./main
+```
 
 ## Result
 
@@ -55,8 +57,10 @@ End with an example of getting some data out of the system or using it for a lit
 <p align="center">
   <img width="547" height="529" src="https://github.com/Qthai16/Thesis_OpenCV_ObjectDetection/blob/master/img/imshow.png">
 </p>
+
 ### HOG feature
 <p align="center">
   <img width="700" height="242" src="https://github.com/Qthai16/Thesis_OpenCV_ObjectDetection/blob/master/img/HOG_feature.png">
 </p>
-* You can find the demo video here: https://youtu.be/J12U36kCqYc
+
+You can find the demo video here: https://youtu.be/J12U36kCqYc
