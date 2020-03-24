@@ -13,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Hardware connection
 <p align="center">
-  <img width="532" height="562" src="https://github.com/Qthai16/Thesis_OpenCV_ObjectDetection/tree/master/img/hardware_connection.png">
+  <img width="400" height="420" src="https://github.com/Qthai16/Thesis_OpenCV_ObjectDetection/tree/master/img/hardware_connection.png">
 </p>
 
 ### Lane detection and traffic signs classification algorithm
@@ -53,10 +53,10 @@ End with an example of getting some data out of the system or using it for a lit
 
 ### GUI
 <p align="center">
-  <img width="840" height="594" src="https://github.com/Qthai16/Thesis_OpenCV_ObjectDetection/blob/master/img/imshow.png">
+  <img width="547" height="529" src="https://github.com/Qthai16/Thesis_OpenCV_ObjectDetection/blob/master/img/imshow.png">
 </p>
 ### HOG feature
 <p align="center">
-  <img width="840" height="594" src="https://github.com/Qthai16/Thesis_OpenCV_ObjectDetection/blob/master/img/HOG_feature.png">
+  <img width="700" height="242" src="https://github.com/Qthai16/Thesis_OpenCV_ObjectDetection/blob/master/img/HOG_feature.png">
 </p>
 * You can find the demo video here: https://youtu.be/J12U36kCqYc
