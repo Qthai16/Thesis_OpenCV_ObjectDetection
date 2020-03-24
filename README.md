@@ -33,9 +33,8 @@ Give examples
 
 ### Build project and run
 
-A step by step series of examples that tell you how to get a development env running
 This project support 2 build options: Build on host (local PC) or build on Raspberry Pi.
-To build on PC, open CMakeLists.txt and change BUILD_ON_PI/BUILD_ON_HOST to OFF/ON. Do the opposite when build on pi.
+To build on PC, open CMakeLists.txt and change BUILD_ON_PI/BUILD_ON_HOST to OFF/ON. Do the opposite when building on pi.
 
 To build this project, do as below
 
@@ -44,7 +43,8 @@ cmake .
 cd build && make
 ```
 
-The building process takes approximately 5 mins in the first build (depend on your PC)
+The building process takes approximately 5 mins in the first build (depend on your PC).
+
 To run the project
 
 ```
