@@ -13,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Dependencies
 In order to run the project, the following dependencies are required:
 - Ubuntu 16.04 [here](http://cdimage.ubuntu.com/netboot/16.04/?_ga=2.243318149.1855666904.1529366501-828848615.1529366501)
-- CMake version xxx [here]
+- CMake minimum version xxx [here]
 - OpenCV version xxx [here]
 - Dlib library for object detection version xxx [here]
 ```
@@ -40,5 +40,4 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Result
 
-* You can find the result here:
-
+* You can find the demo video here: https://youtu.be/J12U36kCqYc
