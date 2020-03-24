@@ -11,14 +11,14 @@ This project is written in C++, using the OpenCV library for lane detection and 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-Hardware connection
+### Hardware connection
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Qthai16/Thesis_OpenCV_ObjectDetection/tree/master/img/hardware_connection.png">
+  <img width="532" height="562" src="https://github.com/Qthai16/Thesis_OpenCV_ObjectDetection/tree/master/img/hardware_connection.png">
 </p>
 
-Lane detection and traffic signs classification algorithm
+### Lane detection and traffic signs classification algorithm
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Qthai16/Thesis_OpenCV_ObjectDetection/blob/master/img/algorithm_all.png">
+  <img width="840" height="594" src="https://github.com/Qthai16/Thesis_OpenCV_ObjectDetection/blob/master/img/algorithm_all.png">
 </p>
 
 ### Dependencies
@@ -51,4 +51,12 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Result
 
+### GUI
+<p align="center">
+  <img width="840" height="594" src="https://github.com/Qthai16/Thesis_OpenCV_ObjectDetection/blob/master/img/imshow.png">
+</p>
+### HOG feature
+<p align="center">
+  <img width="840" height="594" src="https://github.com/Qthai16/Thesis_OpenCV_ObjectDetection/blob/master/img/HOG_feature.png">
+</p>
 * You can find the demo video here: https://youtu.be/J12U36kCqYc
