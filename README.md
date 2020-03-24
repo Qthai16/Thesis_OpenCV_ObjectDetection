@@ -13,12 +13,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Hardware connection
 <p align="center">
-  <img width="400" height="420" src="https://github.com/Qthai16/Thesis_OpenCV_ObjectDetection/tree/master/img/hardware_connection.png">
+  <img width="400" height="420" src="/img/hardware_connection.png">
 </p>
 
 ### Lane detection and traffic signs classification algorithm
 <p align="center">
-  <img width="840" height="594" src="https://github.com/Qthai16/Thesis_OpenCV_ObjectDetection/blob/master/img/algorithm_all.png">
+  <img width="672" height="475" src="https://github.com/Qthai16/Thesis_OpenCV_ObjectDetection/blob/master/img/algorithm_all.png">
 </p>
 
 ### Dependencies
